@@ -1,0 +1,6 @@
+Django
+djangorestframework
+django-rest-knox
+coverage
+gunicorn
+django-heroku
